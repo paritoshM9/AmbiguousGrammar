@@ -13,7 +13,7 @@ Input format :
 Enter no. of productions:3
 Enter the productions ( use # to denote null string )
 
-S->aSbS
+S->aSbS\\
 S->bSaS
 S->#
 Enter the word to be checked: abab
