@@ -34,3 +34,7 @@ Python 3.5 IDLE
 
 There are some grammar on which it may not give the right solution particularly if the grammar is left recursion. For left recursion some cases may still pass but some may fail. <br />
 Another exception is , if we put the given word as an empty string , these type of examples may create problem and need further improvement in the program. 
+
+
+by 
+paritosh mahajan
